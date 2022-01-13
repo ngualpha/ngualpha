@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ngualpha
 - 👀 I’m interested in php, javascript and css
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on we development
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me ngualph12@gmail.com
 
 <!---
